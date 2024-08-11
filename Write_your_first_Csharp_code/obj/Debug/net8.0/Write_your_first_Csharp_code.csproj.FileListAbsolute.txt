@@ -1,0 +1,14 @@
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\bin\Debug\net8.0\Write_your_first_Csharp_code.exe
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\bin\Debug\net8.0\Write_your_first_Csharp_code.deps.json
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\bin\Debug\net8.0\Write_your_first_Csharp_code.runtimeconfig.json
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\bin\Debug\net8.0\Write_your_first_Csharp_code.dll
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\bin\Debug\net8.0\Write_your_first_Csharp_code.pdb
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.AssemblyInfoInputs.cache
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.AssemblyInfo.cs
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.csproj.CoreCompileInputs.cache
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.dll
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\refint\Write_your_first_Csharp_code.dll
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.pdb
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\Write_your_first_Csharp_code.genruntimeconfig.cache
+D:\Programming\Programming Languages\Csharp\Build_.NET_applications_with_Csharp\Write_your_first_Csharp_code\obj\Debug\net8.0\ref\Write_your_first_Csharp_code.dll
